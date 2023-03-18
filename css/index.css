@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+}
+
+table{
+    width: 70vw;
+    height: 50vh;
+    font-size: 20px;
+}
+tr:first-child {
+    color: white;
+    background-color: rgb(113, 97, 97);
+    font-weight: 900;
+}
+tr:last-child {
+    color: white;
+    background-color: rgb(113, 97, 97);
+    font-weight: 900;
+}
+.dolar{
+    text-align: right;
+}
+tr:first-child {
+    color: white;
+    background-color: rgb(113, 97, 97);
+    font-weight: 900;
+}
+.into td:nth-child(4), .into td:nth-child(5){
+    text-align: right;
+}
+.into td:nth-child(3){
+    text-align: center;
+}
+th:nth-child(4),th:nth-child(5){
+    text-align: right;
+}
+th:nth-child(3){
+    text-align: center;
+}
+.into:nth-child(odd){
+    background-color: rgb(234, 231, 231);
+}
+.into:nth-child(even){
+    background-color: rgb(205, 203, 203);
+}
+.into td:last-child{
+text-align: center;
+}
+
+.fa-trash-can{
+    margin-left: 15px;
+}
+
+div{
+    margin-top: 10px;
+    width: 70vw;
+
+}
+
+ button{
+    width: auto;
+    height: 40px;
+    font-size: large;
+    margin-top: 10px;
+    float: right;
+}
+
+.payment{
+    margin-left: 10px;
+} 
